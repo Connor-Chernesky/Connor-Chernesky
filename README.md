@@ -16,6 +16,3 @@ I am a BS/MS student studying Electrical Engineering at Rochester Institute of T
 
 **GitHub Stats:**
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Connor-Chernesky&show_icons=true)
-
-**Most Used Languages:**
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Chernesky&theme=blue-green)
