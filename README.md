@@ -13,6 +13,3 @@ I am a BS/MS student studying Electrical Engineering at Rochester Institute of T
 - 📫 How to reach me: personal email (connorx3537@gmail.com) or school email (ctc6661@rit.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ice is dry. Water is wet.
-
-**GitHub Stats:**
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Connor-Chernesky&show_icons=true)
